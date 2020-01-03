@@ -6,10 +6,10 @@
 
 .container {
   position: absolute;
-  width: 1024px;
+  width: 1800px;
   height: 800px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(190, 7, 7, 0.2);
+  box-shadow: 0px 2px 10px rgba(190,7,7,0.2);
   border-radius: 10px;
   padding: 10px;
   box-sizing: border-box;
@@ -22,7 +22,7 @@
 
 .title {
   position: relative;
-  background-color: rgba(0, 0, 0, 1);
+  background-color: rgb(72, 246, 3);
   color: rgb(255, 255, 255);
   padding: 20px;
   font-size: 1.8em;
@@ -33,6 +33,7 @@
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 5px;
+  
 }
 
 .questionBox {
@@ -47,7 +48,7 @@
 .answerBtn {
   position: relative;
   padding: 10px;
-  background-color: rgb(250, 151, 37);
+  background-color: rgb(72, 246, 3);
   display: inline-block;
   margin: 10px;
   outline: none;
